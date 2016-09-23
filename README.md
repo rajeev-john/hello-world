@@ -1,3 +1,3 @@
 # hello-world
 Learn GitHub
-Have an extra edit for the branck
+Have an extra edit for the branch
